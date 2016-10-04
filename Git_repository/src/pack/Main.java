@@ -10,6 +10,9 @@ public class Main {
 		System.out.println(person);
 		
 		
+		System.out.println("new commit");
+		
+		
 	}
 
 }
